@@ -1,2 +1,2 @@
 # coderapper-tutorials
-Repository which holds all the examples from coderapper.blog
+Here you can find all examples from <a href="https://coderapper.blog">coderapper.blog</a>
